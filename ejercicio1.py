@@ -10,7 +10,7 @@ class Perro(Animal):
 
 class Gato(Animal):
     def hablar(self):
-        return "El gato hace miau"
+        return "El gato hace miau y purr"
 
 
 class Vaca(Animal):
